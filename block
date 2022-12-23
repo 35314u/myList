@@ -1,5 +1,64 @@
 # -------------- neue Einträge --------------
 #
+# 23.12.2022
+/^([a-z0-9\-]*\-)?telemetry(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
+/^(error|g|bug|[a-z0-9\-]*\-)?track(er|ing)?(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
+/^(s|[a-z0-9\-]*\-)?analytics?(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
+/^(s|[a-z0-9\-]*\-)?metrics?(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
+/watson\..*\.microsoft\.com/
+# ----------------
+||app.adjust.net.in.fritz.box^$important
+||app.adjust.world.fritz.box^$important
+||btlr.sharethrough.com.fritz.box^$important
+||cdn.adpushup.com.fritz.box^$important
+||cdn.taboola.com.fritz.box^$important
+||de.pornhubpremium.com^$important
+||eus.rubiconproject.com.fritz.box^$important
+||familysimulators.io^$important
+||faphouse.com^$important
+||giga-video.de^
+||glomex.cloud^$important
+||glomex.com^
+||hb.adscale.de.fritz.box^$important
+||hbopenbid.pubmatic.com.fritz.box^$important
+||htlb.casalemedia.com.fritz.box^$important
+||id.crwdcntrl.net.fritz.box^$important
+||id5-sync.com.fritz.box^$important
+||image.email.handelsblatt.com^
+||js.stroeermediabrands.de.fritz.box^$important
+||js-sec.indexww.com.fritz.box^$important
+||live.primis.tech.fritz.box^$important
+||live.primis.tech/live/liveVideo.php?$script,domain=nextpit.de
+||live.primis.tech/live/liveView.php?$script,domain=nextpit.de
+||match.adsrvr.org.fritz.box^$important
+||pornhubpremium.com^
+||prebid.media.net.fritz.box^$important
+||prebid-server.rubiconproject.com.fritz.box^$important
+||primis.tech^
+||primis-d.openx.net.fritz.box^$important
+||securepubads.g.doubleclick.net.fritz.box^$important
+||settings.crashlytics.com.fritz.box^$important
+||ssl.google-analytics.com.fritz.box^$important
+||static.chartbeat.com.fritz.box^$important
+||static.cleverpush.com.fritz.box^$important
+||target-video.com^$important
+||tariffuxx^
+||thumb-v-lv.xhcdn.com^$important
+||vid-cdn60.stroeermb.de.fritz.box^$important
+||vid-cdn60.stroeermb.de^$important
+||vid-cdn61.stroeermb.de^$important
+||videos.giga.de.fritz.box^$important
+||videos.winfuture.de^$important
+||watson\..*\.microsoft\.com^
+||webtradecenter.com^$important
+||white.tariffuxx.de^$important
+||ww2.glomex.com^$important
+||www.communicationads.net.fritz.box^$important
+||www.facebook.com.fritz.box^$important
+||www.google-analytics.com.fritz.box^$important
+||www.googleoptimize.com.fritz.box^$important
+||www.primis.tech^
+# --------------------------------------------
 # 29.10.2022
 ||gfswl.geforce.com^
 ||gfe.geforce.com^
