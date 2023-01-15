@@ -1,3 +1,23 @@
+# ------------------ Update 15.01.23 ------------------
+@@||unagi.amazon.de^$important
+@@||aax-eu.amazon.de^$important
+@@||cloudfront.net^
+@@||fls-eu.amazon.de^$important
+@@||disneyplus.com^
+@@||bamgrid.com^
+@@||bam.nr-data.net^
+@@||cdn.registerdisney.go.com^
+@@||cws.conviva.com^
+@@||d9.flashtalking.com^
+@@||disney-portal.my.onetrust.com^
+@@||disneyplus.bn5x.net^
+@@||js-agent.newrelic.com^
+@@||disney-plus.net^
+@@||dssott.com^
+@@||adobedtm.com^
+@@||aldi-sued.de^$important
+@@||l.newsletter.kaufland.de^$important
+#
 # ------------------ Update 26.12.22 ------------------
 @@||youtubei.googleapis.com^
 @@||m.youtube.com^
