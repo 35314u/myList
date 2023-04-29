@@ -1,4 +1,48 @@
 # ------------------ Update 29.04.23 ------------------
+# Google
+@@||0.client-channel.google.com^$important
+@@||2.android.pool.ntp.org^$important
+@@||android.clients.google.com^$important
+@@||appsbackup-pa.clients6.google.com^$important
+@@||appsbackup-pa.googleapis.com^$important
+@@||clients1.google.com^$important
+@@||clients2.google.com^$important
+@@||clients3.google.com^$important
+@@||clients4.google.com^$important
+@@||clients5.google.com^$important
+@@||clients6.google.com^$important
+@@||cse.google.com^$important
+@@||fonts.gstatic.com^$important
+@@||www.googleapis.com^$important
+@@||googleapis.com^$important
+@@||gstatic.com^$important
+@@||instantmessaging-pa.googleapis.com^$important
+@@||manifest.googlevideo.com^$important
+@@||redirector.googlevideo.com^$important
+@@||video-stats.l.google.com^$important
+@@||geo3.ggpht.com^$important
+@@||yt3.ggpht.com^$important
+# Youtube
+@@||s.youtube.com^$important
+@@||s2.youtube.com^$important
+@@||www.youtube-nocookie.com^$important
+@@||youtu.be^$important
+@@||youtube-nocookie.com^$important
+@@||i.ytimg.com^$important
+@@||i1.ytimg.com^$important
+@@||s.ytimg.com^$important
+# Cloudflare
+@@||cdn.cloudflare.net^$important
+@@||cdnjs.cloudflare.com^$important
+# Dropbox
+@@||dl.dropbox.com^$important
+@@||dl.dropboxusercontent.com^$important
+@@||ns1.dropbox.com^$important
+@@||ns2.dropbox.com^$important
+# Github
+@@||github.com^$important
+@@||github.io^$important
+@@||raw.githubusercontent.com^$important
 # ARD German Television
 @@||mcdn.daserste.de^$important
 @@||image.ard.de^$important
