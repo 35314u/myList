@@ -1,4 +1,6 @@
 # ------------------ Update 29.04.23 ------------------
+# Instagram
+@@||cdninstagram.com^$important
 # Google
 @@||0.client-channel.google.com^$important
 @@||2.android.pool.ntp.org^$important
