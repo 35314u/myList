@@ -22,6 +22,7 @@
 ||configserver-dre.platform.hicloud.com*^
 ||www.googleadservices.com.fritz.box*^
 ||*googleadservices*^
+||grs.platform.dbankcloud.ru*^
 #
 # ------------------ Update 26.03.23 ------------------
 ||media-video.focus.de*^
