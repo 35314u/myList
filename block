@@ -140,7 +140,7 @@
 ||gfswl.geforce.com*^
 ||gfe.geforce.com*^
 ||telemetry.nvidia.com*^
-||gfe.nvidia.com*^
+!||gfe.nvidia.com*^
 ||telemetry.gfe.nvidia.com*^
 ||events.gfe.nvidia.com*^
 # 08.10.2022
