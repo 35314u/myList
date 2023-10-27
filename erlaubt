@@ -1,3 +1,20 @@
+# ------------------ Update 27.10.23 ------------------
+#
+#Amazon-Dienste
+@@||eu.api.amazonvideo.com^$important
+@@||device-metrics-us.amazon.com^$important
+@@||fls-eu.amazon.com^$important
+@@||fls-na.amazon.com^$important
+@@||cloudfront.net^$important
+@@||device-metrics-us-2.amazon.com^$important
+@@||images-amazon.com^$important
+@@||amazonaws.com^$important
+@@||ssl.p.jwpcdn.com^$important
+@@||api.eu-west-1.aiv-delivery.net^$important
+#
+@@||redirector.gvt1.com
+@@||webcache.googleusercontent.com
+@@||studio.youtube.com
 # ------------------ Update 29.04.23 ------------------
 #
 # Instagram
